@@ -5,9 +5,10 @@
 * https://www.zhihu.com/people/zhai-sen-8
 
 ### Email
-* s2132101@ed.ac.uk
 
 * lixiang-qd@163.com
+
+* s2132101@ed.ac.uk
 
 * 731249087@qq.com
 
