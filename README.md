@@ -6,9 +6,11 @@
 
 ### Email
 
-* lixiang-qd@163.com
-
 * s2132101@ed.ac.uk
+
+* lxqd2021@outlook.com
+
+* lixiang-qd@163.com
 
 * 731249087@qq.com
 
