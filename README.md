@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Xiang Li. Nice to meet you in github!
+
+See my CV in this website: https://lambdacdm.github.io/homepage/
+
 ### Zhihu
 
 * https://www.zhihu.com/people/zhai-sen-8
