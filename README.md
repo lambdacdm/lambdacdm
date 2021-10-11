@@ -2,7 +2,7 @@
 
 I'm Xiang Li. Nice to meet you in github!
 
-See my CV in this website: https://lambdacdm.github.io/homepage/
+See my CV in this web page: https://lambdacdm.github.io/homepage/
 
 ### Zhihu
 
