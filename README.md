@@ -13,11 +13,3 @@ See my CV in this web page: https://lambdacdm.github.io/homepage/
 * s2132101@ed.ac.uk
 
 * lxqd2021@outlook.com
-
-* lixiang-qd@163.com
-
-* 731249087@qq.com
-
-* lxqd2020@gmail.com
-
-* lxqd2021@126.com
