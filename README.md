@@ -2,7 +2,9 @@
 
 I'm Xiang Li. Nice to meet you in github!
 
-See my CV in this web page: https://lambdacdm.github.io/homepage/
+See my CV in this webpage: https://lambdacdm.github.io/homepage/
+
+If you are a fan of Chinese pop music, see https://lambdacdm.github.io/Music-Laboratory/
 
 ### Zhihu
 
