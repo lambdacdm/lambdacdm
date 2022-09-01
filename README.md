@@ -12,6 +12,8 @@ If you are a fan of Chinese pop music, see https://lambdacdm.github.io/Music-Lab
 
 ### Email
 
-* s2132101@ed.ac.uk
-
 * lxqd2021@outlook.com
+
+* xl540@cam.ac.uk
+
+* s2132101@ed.ac.uk
