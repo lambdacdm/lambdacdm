@@ -14,7 +14,7 @@ If you are a fan of Chinese pop music, see https://lambdacdm.github.io/Music-Lab
 
 * s2132101@ed.ac.uk
 
-### Discird
+### Discord
 
 * lxqd
 
