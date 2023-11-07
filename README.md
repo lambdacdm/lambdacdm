@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Xiang Li. Nice to meet you in github!
+I'm Xiang Li 李想. Nice to meet you in github!
 
 See my personal website: https://lambdacdm.github.io/home 
 
