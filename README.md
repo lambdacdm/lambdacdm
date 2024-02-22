@@ -18,8 +18,8 @@ If you are a fan of Chinese pop music, see https://lambdacdm.github.io/Music-Lab
 
 ### Zhihu 知乎
 
-* https://www.zhihu.com/people/zhai-sen-8
+* [寨森Lambda-CDM](https://www.zhihu.com/people/zhai-sen-8)
 
 ### Bilibili b站
 
-* https://space.bilibili.com/407184818?spm_id_from=333.1007.0.0
+* [寨森CDM](https://space.bilibili.com/407184818?spm_id_from=333.1007.0.0)
