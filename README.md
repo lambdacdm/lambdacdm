@@ -5,7 +5,7 @@ I'm **Xiang Li 李想**. Nice to meet you in github!
 **See my personal website 我的个人主页:** https://lambdacdm.github.io/home
 
 If you are a fan of popular music, see
-* (华语音乐) https://lambdacdm.github.io/Music-Laboratory/
+* (华语音乐) https://lambdacdm.github.io/Music-Laboratory/chinese
 * (popular music in the worldwide)  https://lambdacdm.github.io/Music-Laboratory/world
 
 ### Email
