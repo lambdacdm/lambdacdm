@@ -8,8 +8,6 @@ If you are a fan of popular music, welcome to visit [this page](https://lambdacd
 
 ### Email
 
-* lxqd2021@outlook.com
-
 * s2132101@ed.ac.uk
 
 ### Social Media
