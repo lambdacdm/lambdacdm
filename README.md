@@ -2,7 +2,7 @@
 
 I'm **Xiang Li 李想**. Nice to meet you in github!
 
-**See my personal website 我的个人主页:** https://lambdacdm.github.io/home
+**See my personal website 我的个人主页:** https://lambdacdm.github.io/
 
 If you are a fan of popular music, welcome to visit [this page](https://lambdacdm.github.io/Music-Laboratory/).
 
@@ -17,6 +17,8 @@ If you are a fan of popular music, welcome to visit [this page](https://lambdacd
 * Discord: lxqd2021
 
 * Steam: [lxqd2021](https://steamcommunity.com/profiles/76561199234315986/)
+
+* Reddit: [lxqd2021cdm](https://www.reddit.com/user/lxqd2021cdm/)
 
 * Spotify: [lxqd2021](https://open.spotify.com/user/aodbn5sk0d56tefinucj47aqd)
 
